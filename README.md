@@ -1,3 +1,7 @@
+ <div style="display: inline-block;"><br>
+    <img aling="center" alt="cpp" src="https://raw.githubusercontent.com/Foxx-0x8/Foxx-0x8/main/paulo-github.png">
+</div>
+
 ### Olá, eu sou o Paulo.👋
  Sou um programador em desenvolvimento e aprendizado, estou sempre aberto para novas sugestões ou até novos conteúdos ✍️
 
