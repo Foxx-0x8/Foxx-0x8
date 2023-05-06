@@ -1,5 +1,5 @@
  <div style="display: inline-block;"><br>
-    <img aling="center" alt="cpp" src="https://raw.githubusercontent.com/Foxx-0x8/Foxx-0x8/main/paulo-github.png">
+    <img aling="center" alt="cpp" src="https://raw.githubusercontent.com/Foxx-0x8/Foxx-0x8/main/paulo-github-wid.png">
 </div>
 
 ### Olá, eu sou o Paulo.👋
