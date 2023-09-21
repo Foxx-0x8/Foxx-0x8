@@ -6,7 +6,7 @@
  Sou um programador em desenvolvimento e aprendizado, estou sempre aberto para novas sugestões ou até novos conteúdos ✍️
 
 [FullStack Developer]
-### Segue algums meus conhecimentos
+### Segue algums dos meus conhecimentos
  <div style="display: inline-block;"><br>
     <img aling="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img aling="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
