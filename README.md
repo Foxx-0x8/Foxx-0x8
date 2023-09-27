@@ -1,12 +1,10 @@
  <div style="display: inline-block;"><br>
-    <img aling="center" alt="cpp" src="https://raw.githubusercontent.com/Foxx-0x8/Foxx-0x8/main/paulo-github-wid.png">
+    <img aling="center" alt="cpp" src="https://cdn.discordapp.com/attachments/1156456433966137344/1156456489704235008/mybanner.png?ex=65150989&is=6513b809&hm=311eabfde83cba68d318b77dfd1d32ca8a169a279b621ba56ee7b151e478491f&">
 </div>
 
 ### Olá, eu sou o Paulo.👋
  Sou um programador em desenvolvimento e aprendizado, estou sempre aberto para novas sugestões ou até novos conteúdos ✍️
 
-[FullStack Developer]
-### Segue algums dos meus conhecimentos
  <div style="display: inline-block;"><br>
     <img aling="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img aling="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
